@@ -59,13 +59,3 @@ Feel free to fork the repository, make your modifications, and submit a pull req
 The Lung Cancer Classification repository stands as a testament to the innovative applications of deep learning in the realm of healthcare and biomedical research. By providing a streamlined system for predicting lung cancer types from medical images, this project aims to empower healthcare professionals with advanced tools for diagnosis and treatment planning.
 
 ---
-
-Stay tuned for updates and enhancements to the Lung Cancer Classification system. Your involvement and support are key to driving the progress and impact of this project in the realm of cancer classification and medical imaging.
-
----
-
-*Thank you for exploring the Lung Cancer Classification repository!*
-
-🔬🧠👨‍⚕️📊👩‍💻
-
----
